@@ -693,7 +693,7 @@ color: var(--black);
     }
     
     .about .row .image  {
-        max-width: 75%; /* Set a max-width for the banner to prevent it from exceeding the container */
+        max-width: 100%; /* Set a max-width for the banner to prevent it from exceeding the container */
         justify-content: center;
     }
     
