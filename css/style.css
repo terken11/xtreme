@@ -716,6 +716,33 @@ color: var(--black);
         height: 40vh;
         width: 100%;
     }
+.products{
+        width: 100%;
+    }
+    .products .box-container{
 
+        padding: 0 20px;
+
+    }
+    .products .box-container .box{
+        width: 100%;
+
+    }
+    .products .box-container .box .icons{
+        text-align:center;
+    }
+    .products .box-container .box .image {
+        width: 100%;
+
+    }
+    .products .box-container .box img{
+
+
+        height: 40vh;
+        width: 100%;
+
+
+
+    }
 
 }
