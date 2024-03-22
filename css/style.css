@@ -741,6 +741,16 @@ color: var(--black);
 
 
     }
+    
+    .review{
+        width: 100%;
+
+    }
+    .review .box-container{
+        padding: 0 20px;
+
+
+    }
    
 
 }
