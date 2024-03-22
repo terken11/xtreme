@@ -712,6 +712,8 @@ color: var(--black);
     }
    .menu   .box-container .box{
         width: 100%;
+       height: auto;
+
     }
    .menu   .box-container .box img{
         width: 100%;
