@@ -706,13 +706,13 @@ color: var(--black);
         width: 100%;
     }
   
-    .box-container{
+  .menu  .box-container{
         padding: 0 20px;
     }
-    .box-container .box{
+   .menu   .box-container .box{
         width: 100%;
     }
-    .box-container .box img{
+   .menu   .box-container .box img{
         height: 40vh;
         width: 100%;
     }
