@@ -713,8 +713,9 @@ color: var(--black);
         width: 100%;
     }
    .menu   .box-container .box img{
-        height: 40vh;
         width: 100%;
+               height: auto;
+
     }
 .products{
         width: 100%;
@@ -733,6 +734,8 @@ color: var(--black);
     }
     .products .box-container .box .image {
         width: 100%;
+                height: auto;
+
 
     }
    
