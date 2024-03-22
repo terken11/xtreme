@@ -685,7 +685,6 @@ color: var(--black);
     }
     .home{
         padding: 0px 10px; /* Reduce padding for smaller screens */
-        justify-content: center;
         
     
     }
@@ -695,6 +694,7 @@ color: var(--black);
     
     .about .row .image  {
         max-width: 75%; /* Set a max-width for the banner to prevent it from exceeding the container */
+        justify-content: center;
     }
     
     
