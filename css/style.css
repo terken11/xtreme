@@ -666,7 +666,42 @@ color: var(--black);
 
 
 }
+@media  (max-width: 450px){
 
+    #section-p1{
+        padding: 20px;
+    }
+    
+    .header{
+     
+        padding: 10px 30px;
+       
+    }
+    h1{
+        font-size: 38px;
+    }
+    h2{
+        font-size: 32px;
+    }
+    .home{
+        padding: 0px 10px; /* Reduce padding for smaller screens */
+        display: flex;
+    
+    }
+    .home .content {
+        width: 100%; /* Make both sections take full width on smaller screens */
+    }
+    
+    .about .row .image  {
+        max-width: 75%; /* Set a max-width for the banner to prevent it from exceeding the container */
+    }
+    
+    
+    .about .row .image img {
+        max-width: 100%; /* Ensure image does not exceed container */
+        height: auto;
+    }
+    
 
 
 
