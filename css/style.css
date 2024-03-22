@@ -702,7 +702,20 @@ color: var(--black);
         height: auto;
     }
     
-
+.menu{
+        width: 100%;
+    }
+  
+    .box-container{
+        padding: 0 20px;
+    }
+    .box-container .box{
+        width: 100%;
+    }
+    .box-container .box img{
+        height: 40vh;
+        width: 100%;
+    }
 
 
 }
