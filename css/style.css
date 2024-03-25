@@ -598,6 +598,12 @@ color: var(--black);
        height: 800px;
     
 }
+.donate .fas {
+    align-items: center;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+}
 
 
 
