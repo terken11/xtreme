@@ -255,10 +255,13 @@ section{
 
 
 .impact-section {
+
+    
+        justify-content: center;
+
     align-items: center;    
     background-color: var(--black);
     padding: 50px 0;
-    text-align: center;
   }
   
   .impact-card {
