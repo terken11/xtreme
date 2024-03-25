@@ -578,13 +578,13 @@ color: var(--black);
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background-size: contain;
-    background-position: center;
-    background-repeat: no-repeat;
+  
     width: 100%;
 
 }
 .donate .img{
+        align-items: center;
+
         width: 100%;
        height: auto;
 
