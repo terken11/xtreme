@@ -578,11 +578,16 @@ color: var(--black);
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: url(/images/donate.jpg) ,no-repeat;
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
     width: 100%;
+
+}
+.donate .img{
+        width: 100%;
+       height: auto;
+
 
 }
 
