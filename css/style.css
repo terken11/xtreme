@@ -165,7 +165,12 @@ section{
 .header .search-form label:hover{
     color: var(--main-color);
 }
-
+a .fas {
+    align-items: center;
+    color: #fff;
+    width: 20px;
+    height: 20px;
+}
 
 
 
@@ -594,16 +599,11 @@ color: var(--black);
 
 }
 .donate .img img{
-     width: 800px;
-       height: 800px;
+     width: 600px;
+       height: 600px;
     
 }
-.donate a .fas {
-    align-items: center;
-    color: #fff;
-    width: 20px;
-    height: 20px;
-}
+
 
 
 
