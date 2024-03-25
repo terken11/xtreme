@@ -590,6 +590,11 @@ color: var(--black);
 
 
 }
+.donate .img img{
+     width: 800px;
+       height: 800px;
+    
+}
 
 
 
