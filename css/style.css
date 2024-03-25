@@ -260,7 +260,7 @@ a .fas {
 
 
 .impact-section {
-    display: flex;
+    align-items: center;    
     background-color: var(--black);
     padding: 50px 0;
     text-align: center;
