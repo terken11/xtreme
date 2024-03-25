@@ -184,7 +184,7 @@ section{
     min-height: 100vh;
     display: flex;
     align-items: center;
-    background: linear-gradient(rgba(18, 14, 27, 0.9), rgba(4, 9,30,0.9)),url("/images/activities.jpg") ,no-repeat;
+    background: linear-gradient(url("/images/activities.jpg") ),no-repeat;
     background-size: cover;
     background-position: center;
 
