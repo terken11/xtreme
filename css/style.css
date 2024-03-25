@@ -702,6 +702,13 @@ color: var(--black);
         max-width: 100%; /* Ensure image does not exceed container */
         height: auto;
     }
+    .impact-section {
+        width: 100%;
+    }
+     .impact-card{
+           width: 100%;
+     }
+
     
 .menu{
         width: 100%;
