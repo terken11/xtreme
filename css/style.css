@@ -582,22 +582,8 @@ color: var(--black);
    
 
 }
-.donate .box{
 
-    
-}
-
-
-.donate .box .content{
-    max-width: 60rem;
-}
-.donate .box .content h3{
-    font-size: 6rem;
-    text-transform: uppercase;
-    color: #fff;
-}
-
-.donate .box .content span{
+.donate  span{
     color: var(--main-color);
 }
 
@@ -765,16 +751,6 @@ color: var(--black);
       
     .donate{
         width: 100%;
-
-
-    }
-    .donate .box{
-        width: 100%;
-    }
-
-    .donate .box .content h3{
-        font-size: 38px;
-
 
     }
     
