@@ -754,6 +754,21 @@ color: var(--black);
 
 
     }
+      
+    .donate{
+        width: 100%;
+
+
+    }
+    .donate .box .content{
+        width: 100%;
+    }
+
+    .donate .box .content h3{
+        font-size: 38px;
+
+
+    }
     
     .
    
