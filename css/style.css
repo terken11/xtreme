@@ -405,7 +405,7 @@ color: var(--black);
     text-align: center;
     padding: 3rem 2rem;
 }
-.review .box-container .box .quote{
+.review .box-container .box .quote img{
     height:100px;
     width:100px;
 }
