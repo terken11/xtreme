@@ -582,12 +582,16 @@ color: var(--black);
    
 
 }
+.donate .box{
+
+    
+}
 
 
-.donate .content{
+.donate .box .content{
     max-width: 60rem;
 }
-.donate .content h3{
+.donate .box .content h3{
     font-size: 6rem;
     text-transform: uppercase;
     color: #fff;
