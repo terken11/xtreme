@@ -578,12 +578,23 @@ color: var(--black);
 
 
 .donate{
+    min-height: 100vh;
+    display: flex;
     align-items: center;
    
 
 }
 
-.donate  span{
+.donate .content{
+    max-width: 60rem;
+}
+.donate .content h3{
+    font-size: 6rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.donate .box .content span{
     color: var(--main-color);
 }
 
