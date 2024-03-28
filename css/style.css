@@ -580,6 +580,18 @@ color: var(--black);
 
 
 
+.donate .content{
+    max-width: 60rem;
+}
+.donate .content h3{
+    font-size: 6rem;
+    text-transform: uppercase;
+    color: #fff;
+}
+
+.donate .box .content span{
+    color: var(--main-color);
+}
 
 
 
